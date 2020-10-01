@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//codingan buat hacktoberfest
 
 void main() {
   runApp(AdabBertamu());
@@ -7,7 +8,7 @@ void main() {
 class AdabBertamu extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final title = "Adab Bertamu";
+    final title = "Adab adab Bertamu";
 
     List<Choice> choices = const <Choice>[
       const Choice(
