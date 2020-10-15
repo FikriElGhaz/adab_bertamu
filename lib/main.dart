@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 //codingan buat hacktoberfest
+//comment
 
 void main() {
   runApp(AdabBertamu());
